@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Parliament of the Common-wealth of England, the present authority of these nations assembled at Westminster. A presentation, by a faithful friend to the nations ... [i.e. Edward Burroughe].</title>
+            <author>Burrough, Edward, 1634-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01862</idno>
+            <idno type="STC">Wing B6038A</idno>
+            <idno type="STC">ESTC R229348</idno>
+            <idno type="EEBO-CITATION">47012334</idno>
+            <idno type="OCLC">ocm 47012334</idno>
+            <idno type="VID">174299</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01862)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174299)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2682:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Parliament of the Common-wealth of England, the present authority of these nations assembled at Westminster. A presentation, by a faithful friend to the nations ... [i.e. Edward Burroughe].</title>
+                  <author>Burrough, Edward, 1634-1662.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Speeches, addresses, etc. --  Early works to 1800.</term>
+               <term>Anti-catholicism --  Great Britain --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:174299:1"/>
+            <head>TO THE PARLIAMENT Of the COMMON-WEALTH of ENGLAND, The Preſent Authority of theſe Nations Aſſembled at <hi>WESTMINSTER.</hi>
+            </head>
+            <head type="sub">
+               <hi>A Preſentation, by a faithful Friend to the Nations, in the Name and by the Spirit of Jeſus Chriſt,</hi> King <hi>of Righteouſneſſe and Peace, That you may take off oppreſſion, and free the people from all their cruel bonds that have been impoſed upon their bodies, Eſtates and Conſciences in the dayes of the reign of Antichriſt, that Truth, juſtice and Righteouſneſs may come nigh unto us, and the Kingdom of the Son of God ſet up among us, that you and we may at laſt be free ſubjects of Chriſts Kingdom, where</hi> Righteouſ<g ref="char:EOLhyphen"/>neſſe, Truth and Peace <hi>may run down and be eſtabliſhed in the earth for evermore.</hi>
+            </head>
+            <opener>
+               <salute>FRIENDS,</salute>
+            </opener>
+            <p>IT is acknowledged that the Lord God (who rules over all in the kingdoms of men) hath done great and honourable things by you, and with the face of your Authority in your dayes, and ſince your firſt appearing on the Throne, mighty things hath been brought to paſs in our Nations, by the hand of the Lord, inſomuch that many mountains have been abaſed, and many ſturdy oakes have been cut down, and many cruel Lawes have been made void and even the way of the Lord, and the way of the coming of his Kingdom hath ſeemed to be prepared; For the king<g ref="char:EOLhyphen"/>dom of Antichriſt, and the beaſt, and the whore (the falſe Church) hath in many things received a mortal wound in this Nation, and there hath been divers times the fair bloſoms of the glorious appearance of Truth, Righteouſneſſe and Peace, and there have been many fair promiſes and pretenſes made by many of you, like as if the <hi>Kingdom of Jeſus</hi> had been at our door, ready to have entered in our Nations, whereby many good hopes we have had to have been made <hi>a perfect free people</hi> ere this day, from the chaines of <hi>Antichrist and the Whore</hi> (the falſe Church) and from every branch thereof, and that we might have gotten together in peace and unity, and in freedom from all the oppreſſions of our enemies.</p>
+            <p>But alas, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Glorious work of <hi>Reformation</hi> hath been interrupted before our eye, and the pretious buds and good appearance of Glorious fruits hath been withered and blaſted in our ſight, ſo that our good hopes have periſhed, and our Freedom hath been intercepted, through the evil dealing of many <hi>unfaithfull men,</hi> ſo that Antichriſts kingdom hath not been utterly rooted out, nor the oppreſſive Lawes of the Whore (the falſe Church) wholly broken down, but the rather have ſeemed to be revived again, and the <hi>Kingdom</hi> of the Son of God hath been warred againſt, and Truth, Righteouſneſſe and juſt Judgement hath yet been kept out of the Throne, and the <hi>Lamb</hi> and his <hi>Army</hi> and followers have been oppoſed by open and ſecret Rebellion, ſo that though there hath been great appearances of good things now and then, yet ever &amp; anon Cloudes and darkneſſe hath overſhaddowed the Nations again, and the <hi>good hopes</hi> of faithfull people have been dri<g ref="char:EOLhyphen"/>ven backwards, and Reformation ſtopped, and your own <hi>vowes promiſes and pretenſes</hi> have remained unfulfilled, and we are yet an oppreſſed people; and the cauſe of this hath been from ſome unfaithful men that have neglected the good work of the Lord once intruſted with them, and have ſought themſelves, and their own honours and intereſts, and have ſetten down at eaſe and reſt in the fleſh, glorying in the ſpoil of their enemies, and thereby have they become unfaithful, and unprofitable in carrying on the Lords work, for ſome have been of a ſincere mind for a ſeaſon, and made a good progreſſe towards the attaining a Kingdom of Righteouſneſs, and the removing of all oppreſsions, yet when they have begun to ſeek themſelves in this World, and to take unto themſelve the <hi>honours and Titles, and poſſeſſion of their enemies</hi> (whom the Lord caſt out before them) and ſo have become guilty of their enemies ſins, then they have been choaked, and the good work of the Lord by them could not proſper, but it hath fallen in their hands even becauſe of their <hi>Apoſtacy,</hi> whom the Lord hath removed in his wrath, which to you all may be examples that ye follow not their ſteps; For, for theſe cauſes I tell you hath the <hi>true Reformation</hi> been turned backward, and the work of the Lord remained unfiniſhed, inſomuch, that <hi>Oppreſſion</hi> and <hi>injuſtice,</hi> and <hi>Tyranny</hi> yet remains upon the people, and ten thouſands lies groaning under the yoak and bondage of <hi>Anti<g ref="char:EOLhyphen"/>chriſt, and of the Whore (the falſe Church)</hi> in perſons, eſtates and Conſciences, and are ready to depart out of all good hope and conſidence, that they ſhall never ſee, through you, the finiſhing of that long ſince begun good work of <hi>perfect Reformation,</hi> and freedom from all oppreſſions and amongſt the many great oppreſſions and cruel burthens yet remaining in our Nation, there is at this day one particular <hi>Oppreſſion</hi> abounding, under which thouſands of the free People of the Lord and of theſe Nations, lies unjuſtly ſuffering in their bodies, eſtates and conſciences (to wit) this, way of <hi>forced maintenance of the Ministry</hi> by <hi>Tithes and money, and yearly ſtipend,</hi> which many are violently forced to pay through <hi>oppreſſion,</hi> and contrary to <hi>equity,</hi> and becauſe hereof is God not well pleaſed with you, but his wrath is kindled already, for the cry of the unjuſtly afflicted under this one oppreſsion, hath entered into his ear, and he will be avenged ſpeedily, even be<g ref="char:EOLhyphen"/>cauſe of the oppreſſion of his People in this very particular, who cannot out of a good conſcience pay <hi>Tithes</hi> or money or any other thing contrary to equity, to the maintaining of this Miniſtry and theſe Miniſters which they receive no benefit by, neither are under their Miniſtry. And foraſmuch as this way of maintaining Miniſters and Miniſtry <hi>by force</hi> is wholly Antichriſtian and of the Whore, (the falſe Church) and never was in the <hi>True Churches of Chriſt in</hi> the Apoſtles dayes, neither did ever Chriſt or his Apoſtles give inſtitution or example for ſuch way of mainte<g ref="char:EOLhyphen"/>nance to Chriſts Miniſters; but being that this way of <hi>forced maintenance</hi> by Tithes, and money and yearly ſtipends is come up long ſince the Apoſtles dayes, and is the very inſtitution of the falſe church of <hi>Rome,</hi> and was firſt practiſed by her authority in our Nation, and by the ſame ſpirit at this day this oppreſſion remaineth among us; and likewiſe it is wholly unreaſonable that one ſort of people ſhould be <hi>compelled</hi> to maintain an others <hi>Ministers</hi> whom they do not bear, nor receives their Miniſtry; and alſo this way of <hi>Maintenance</hi> is one of the greateſt oppreſſions in our Nation, and many hundreds of my Brethren have ſuffered great oppreſſion thereby, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the loſs of eſtates, and many the loſs of their liberties, and ſome the loſs of their lives alſo, in ſo much that this <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>poreſsion is fully ripe to be <hi>cut down, and removed</hi> out of our land.</p>
+            <p>Wherefore it lies upon me from the Lord, to requeſt it of you, and to lay it upon you, as being the preſent Authority that hath power to do it, that you ſpeedily order the removing of this <hi>oppreſſion</hi> of <hi>forced maintenance</hi> to Miniſters out of the Nation, and that no man henceforth be compelled or forced to maintain Miniſters and Miniſtry by <hi>Tithes or money or otherwiſe,</hi> but that every man be left free, to give what and how much as he pleaſeth, to what Miniſter as he will; onely if any do hire a Miniſter, and promiſe ſo much, then it is equity that he that is hired have the benefit of the Law, to receive what he is promiſed by force, if he cannot freely; But let not any people be forced by your Law <hi>to hire Ministers,</hi> neither one fore to maintain another peoples Miniſter, but let every ſort of people live under what Miniſtry, and hear whom they pleaſe, and alſo maintain their own Miniſters that labours for them, and this is reaſonable, and would con<g ref="char:EOLhyphen"/>tent all the faithful people, for it is wholly unequal that any people ſhould be ſo <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed and compelled to maintain another peoples Miniſter, which doth no work for them, and it is alſo wholly in<g ref="char:EOLhyphen"/>conſiſtent with the good Government of a Common-wealth, and abſolute contrary to Chriſtian Liberty, and is a very chain of Antichriſt upon the good people, and the main cauſe of heart<g ref="char:EOLhyphen"/>burnings, and ſtrifes and envyings among ſubjects, and one of the chief props of deceivers and falſe miniſters, that covets to run after great benefices, and cares not for Souls, and alſo the God of Heaven is vexed with this abomination, and it is certain that you and the Nations ſhall neer be eſtabliſhed in true and <hi>perfect peace and unity,</hi> while this oppreſſion remaineth, nor till that in all things <hi>Conſcience</hi> be left free, to the exerciſe of the Spirit of God.</p>
+            <p>Wherefore I am come to your door on the behalf of the Lord and all <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> people, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cry, and ten thouſands with me (in <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> your Nation, let this <hi>unreaſonable, op<g ref="char:EOLhyphen"/>preſſive and Antichristian</hi> practice of <hi>forcing maintenance to Ministers</hi> be ſpeedily removed out of our Land, and let the perſons, Eſtates and Conſciences of your faithful Friends be freed from this cruel burden, that they have long born by your and their very enemies; and alſo I lay it upon you, that you clear and free your ſelves in all things from the falſe church, and be not ſervants to her, drink not her cup of fornications, neither in any thing carry the Whore; And hereby ſhould that long born and heavy yoak of Antichriſt be removed, that hath laid upon the good peoples Perſons, Eſtates and Conſciences, and falſe miniſters that runs for hire, and not to win Souls (who are oppreſſors) ſhould hereby be limitted, and the faithful Miniſters of Chriſt, who are ſent of him, would be the more encouraged to Miniſter freely, who have received freely, and this would be the way to bring Bleſſings and Peace amongſt us, and to rejoice the hearts of the Righ<g ref="char:EOLhyphen"/>teous, and to ſtop the ſpirit of oppreſſion, and hereby you would be made honourable, and the Lord himſelf glorified, and his people a free people; So that for theſe cauſes, it is upon me to <hi>demand</hi> it of you, that you remove the oppreſſion aforeſaid, of <hi>forcing maintenance</hi> for Miniſters, and leave every ſort of people free to maintain their own Miniſters, as the Lord ſhall lead them.</p>
+            <p>For this was the way in the true Churches, the Miniſters of Chriſt did eat of the milk of the flock which they kept, and of the fruit of the vineyard which they had planted, freely given them, and they reaped carnal things where they ſowed ſpiritual, yet as a free gift unto them, and not by force, nor as a debt, for this way of <hi>forcing maintenance</hi> was never in being among the true Churches, but is of the falſe church, both in its Original and in its ſtanding to this day, and out of her cup (who hath made Nations drunk) hath our Nation drunk this abomina<g ref="char:EOLhyphen"/>tion and oppreſſion, and it is the remainder and one of the ſtrongeſt parts of <hi>the Whore of Rome</hi> yet left in <hi>England,</hi> and it is full time to be removed clean away from us. And if you do it, then ſhall we have cauſe to believe that you intend well to the Nations, and our long decayed hopes concerning you will be again revived, and our Faith will be encreaſed, that you will yet ſuffer Reighteouſneſs and Mercy to flouriſh, if you take off every oppreſſion, and make the people free; but if you do it not, but will be the impoſers of unrighteous things upon the people under you, and will <hi>carry the Whore,</hi> and yet drink her cup, and <hi>compel</hi> others to drink it, then the Lord will break you to pieces, and bring freedom to this Nation ſome other way, and you and they and the Beaſt and the Whore and your oppreſſions ſhall all fall together, and ſink as a ſtone into the Sea, and your remembrance ſhall be blotted out, and perpetually periſh; and theſe are the <hi>Words of the Lord God unto you,</hi> wherefore that you may live in true honour, and not periſh in perpetual ſhame, and that the Lord may bleſs you, and not make you a curſe, and that the Lords people may pray for you, and not againſt you; I ſay, conſider in the fear of God, and with a willing mind grant this my deſire, and in ſo doing you fulfil the Will of the Lord, and thereby be eſtabliſhed over all your enemies. Many things more on the Lords behalf I have to demand of you, but this for preſent, from a lover of Righteouſneſs, and a Friend to this Nation.</p>
+            <closer>
+               <signed>EDWARD B<g ref="char:V">Ʋ</g>RRO<g ref="char:V">Ʋ</g>GHE.</signed>
+               <dateline>London, <date>the 12th of the 7th Month, 1659.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons,</hi> at the Bull and Mouth near Alderſgate, 1659.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
